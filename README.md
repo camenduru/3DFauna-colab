@@ -19,3 +19,4 @@ https://kyleleey.github.io/3DFauna/
 
 ### 🖼 Output
 
+https://github.com/camenduru/3DFauna-colab/assets/54370274/21917344-dd77-40d5-922d-209c4ced9cb0
